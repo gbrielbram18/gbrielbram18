@@ -14,7 +14,6 @@
 
 
 <div align="center">  
-  
    <a href="www.linkedin.com/in/gabriel-brambila-5797b3337" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 

@@ -29,8 +29,8 @@
   <!--<img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">-->
 </div>
 
-<br>
-
+<br/>
+![Snake animation](https://github.com/gbrielbram18/gbrielbram18/blob/output/github-contribution-grid-snake.svg)
 
 
 

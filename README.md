@@ -2,9 +2,10 @@
 
 <h3> Atualmente estou Cursando a faculdade FATEC de Carapícuiba estudando Analíse e Desenvilvomento de Sistemas.</h3>
 
-- Estudando novas linguagens como PHP e Java
-- 💻 Java Script | HTML | CSS | PYTHON | SQL | PHP | C#
--  18 anos - 2006
+
+- Cotia-SP, Brasil
+- Cursando Análise e Desenvolvimento de Sistemas na FATEC de Carapicuíba
+- 18 anos - 2006
 
 <h3></h3>
 <hr>

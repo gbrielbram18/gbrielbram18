@@ -2,7 +2,7 @@
 
 
 - Estudando novas linguagens como PHP e Java
-- 💻 Java Script | HTML | CSS | Python | SQL | PHP  
+- 💻 Java Script | HTML | CSS | PYTHON | SQL | PHP | C#
 -  18 anos - 2006
 
 <h3></h3>

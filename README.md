@@ -1,5 +1,6 @@
-## Olá me chamo Gabriel
+## Olá, me chamo Gabriel
 
+<h3> Atualmente estou Cursando a faculdade FATEC de Carapícuiba estudando Analíse e Desenvilvomento de Sistemas.</h3>
 
 - Estudando novas linguagens como PHP e Java
 - 💻 Java Script | HTML | CSS | PYTHON | SQL | PHP | C#

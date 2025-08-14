@@ -3,8 +3,8 @@
 <h3> Atualmente estou Cursando a faculdade FATEC de Carapícuiba estudando Analíse e Desenvilvomento de Sistemas.</h3>
 
 
-- Cotia-SP, Brasil
-- Cursando Análise e Desenvolvimento de Sistemas na FATEC de Carapicuíba
+- 📍 Cotia-SP, Brasil
+- 📚 Cursando Análise e Desenvolvimento de Sistemas na FATEC de Carapicuíba
 - 18 anos - 2006
 
 <h3></h3>

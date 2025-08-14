@@ -1,6 +1,6 @@
 ## Olá, me chamo Gabriel
 
-<h3> Atualmente estou Cursando a faculdade FATEC de Carapícuiba estudando Analíse e Desenvilvomento de Sistemas.</h3>
+<h3> Atualmente estou Cursando a faculdade FATEC de Carapícuiba estudando Analíse e Desenvilvomento de Sistemas(ADS).</h3>
 
 
 - 📍 Cotia-SP, Brasil

@@ -1,7 +1,9 @@
-<!-- Banner de cabeçalho -->
+<!-- Banner de cabeçalho 
 <p align="center">
   <img src="https://github.com/gbrielbram18/gbrielbram18/blob/main/banner.png" alt="banner" width="100%" />
 </p>
+-->
+
 
 <h1 align="center">Gabriel Brambila</h1>
 <p align="center">

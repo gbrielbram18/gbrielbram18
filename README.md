@@ -1,41 +1,84 @@
-## Olá, me chamo Gabriel
+<!-- Banner de cabeçalho -->
+<p align="center">
+  <img src="https://github.com/gbrielbram18/gbrielbram18/blob/main/banner.png" alt="banner" width="100%" />
+</p>
 
-<h3> Atualmente estou Cursando a faculdade FATEC de Carapícuiba estudando Analíse e Desenvilvomento de Sistemas(ADS).</h3>
+<h1 align="center">Gabriel Brambila</h1>
+<p align="center">
+  Estudante de Análise e Desenvolvimento de Sistemas • FATEC Carapicuíba  
+  <br>
+  <strong>Codando o futuro, um commit por vez 🚀</strong>
+</p>
 
+---
 
-- 📍 Cotia-SP, Brasil.
-- 📚 Cursando Análise e Desenvolvimento de Sistemas na FATEC de Carapicuíba.
-- 18 anos - 2006.
+### 👨‍💻 Sobre mim
 
-<h3></h3>
-<hr>
-<div align="right">
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gbrielbram18&theme=github_dark&show_icons=true&count_ptivate=true"/>
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbrielbram18&layout=compact&theme=github_dark"/>
-<div/>
+- 📍 Cotia, SP – Brasil  
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na FATEC Carapicuíba  
+- 🎂 Nascido em 2006 — 18 anos  
+- 🧠 Interesses: Desenvolvimento Web, Back-end, Bots, APIs  
+- ✨ Sempre em busca de aprender novas tecnologias
 
+---
 
-<div align="center">  
-   <a href="https://www.linkedin.com/in/gabriel-brambila-5797b3337/?trk=opento_sprofile_topcard" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+### 🛠️ Tecnologias & Ferramentas
 
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+</p>
 
- 
- <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-<!--   <img align="center" alt="Rafa-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
-  <img align="center" alt="Rafa-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    <img align="center" alt="Rafa-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img align="center" alt="Rafa-Mysql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-</div>
+---
 
-<br/>
+### 📌 Projetos em destaque
 
+| Projeto | Descrição | Linguagens | Link |
+|--------|-----------|------------|------|
+| **TanoshiiiDevs** | Site da comunidade de desenvolvedores para compartilhar conteúdos. | HTML, CSS | [🔗 Acessar](https://github.com/gbrielbram18/TanoshiiiDevs) |
+| **Bot de Telegram** | Um bot para automações simples no Telegram. | Python | [🔗 Acessar](https://github.com/gbrielbram18/python) |
+| **Scripts úteis JS** | Scripts variados para automatizações em JS. | JavaScript | [🔗 Acessar](https://github.com/gbrielbram18/JavaScript) |
 
+---
 
-  
+### 📈 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gbrielbram18&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbrielbram18&layout=compact&theme=radical" width="45%" />
+</p>
+
+---
+
+### 🔭 Roadmap de Aprendizado
+
+- [x] JavaScript e DOM  
+- [x] Python básico e automações  
+- [ ] APIs REST com Node.js  
+- [ ] Frameworks modernos (React ou Vue)  
+- [ ] Banco de dados avançado (MongoDB / PostgreSQL)
+
+---
+
+### 📬 Contato
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabriel-brambila-5797b3337/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:seuemail@exemplo.com">
+    <img src="https://img.shields.io/badge/-Email-000000?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gbrielbram18&color=blue" alt="Profile views" />
+</p>

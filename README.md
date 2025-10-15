@@ -39,11 +39,14 @@
 
 ### 📌 Projetos em destaque
 
+### 📌 Projetos em destaque
+
 | Projeto | Descrição | Linguagens | Link |
 |--------|-----------|------------|------|
 | **TanoshiiiDevs** | Site da comunidade de desenvolvedores para compartilhar conteúdos. | HTML, CSS | [🔗 Acessar](https://github.com/gbrielbram18/TanoshiiiDevs) |
-| **Bot de Telegram** | Um bot para automações simples no Telegram. | Python | [🔗 Acessar](https://github.com/gbrielbram18/python) |
-| **Scripts úteis JS** | Scripts variados para automatizações em JS. | JavaScript | [🔗 Acessar](https://github.com/gbrielbram18/JavaScript) |
+| **Bot de Música (Discord)** | Bot que toca músicas via Spotify. Caso a música não seja encontrada, busca automaticamente no YouTube. | Python, Spotify API, YouTube API | [🔗 Acessar](https://github.com/gbrielbram18/python) |
+| **MeuApp (Mobile)** | Aplicativo mobile responsivo com estrutura clara e foco em aprendizado de front-end. | JavaScript | [🔗 Acessar](https://github.com/gbrielbram18/mobile/tree/main/meuapp) |
+| **Scripts úteis JS** | Scripts variados para automatizações em JavaScript. | JavaScript | [🔗 Acessar](https://github.com/gbrielbram18/JavaScript) |
 
 ---
 

@@ -18,7 +18,7 @@
 
 - 📍 Cotia, SP – Brasil  
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na FATEC Carapicuíba  
-- 🎂 Nascido em 2006 — 18 anos  
+- 🎂 Nascido em 2006 — 19 anos  
 - 🧠 Interesses: Desenvolvimento Web, Back-end, Bots, APIs  
 - ✨ Sempre em busca de aprender novas tecnologias
 

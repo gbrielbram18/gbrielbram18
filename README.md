@@ -67,8 +67,8 @@
 
 - [x] JavaScript e DOM  
 - [x] Python básico e automações  
-- [ ] APIs REST com Node.js  
-- [ ] Frameworks modernos (React ou Vue)  
+- [X] APIs REST com Node.js  
+- [X] Frameworks modernos (React ou Vue)  
 - [ ] Banco de dados avançado (MongoDB / PostgreSQL)
 
 ---

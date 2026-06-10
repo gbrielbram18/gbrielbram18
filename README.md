@@ -7,7 +7,7 @@
 
 <h1 align="center">Gabriel Brambila</h1>
 <p align="center">
-  Estudante de Análise e Desenvolvimento de Sistemas • FATEC Carapicuíba  
+  Estudante de Análise e Desenvolvimento de Sistemas • Centro Universitário FAM  
   <br>
   <strong>Codando o futuro, um commit por vez 🚀</strong>
 </p>
@@ -17,7 +17,7 @@
 ### 👨‍💻 Sobre mim
 
 - 📍 Cotia, SP – Brasil  
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na FATEC Carapicuíba  
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na Centro Universitário FAM 
 - 🎂 Nascido em 2006 — 19 anos  
 - 🧠 Interesses: Desenvolvimento Web, Back-end, Bots, APIs  
 - ✨ Sempre em busca de aprender novas tecnologias
@@ -69,7 +69,7 @@
 - [x] Python básico e automações  
 - [X] APIs REST com Node.js  
 - [X] Frameworks modernos (React ou Vue)  
-- [ ] Banco de dados avançado (MongoDB / PostgreSQL)
+- [X] Banco de dados avançado (MongoDB / PostgreSQL)
 
 ---
 

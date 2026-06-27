@@ -43,8 +43,6 @@
 
 ### 📌 Projetos em destaque
 
-### 📌 Projetos em destaque
-
 | Projeto | Descrição | Linguagens | Link |
 |--------|-----------|------------|------|
 | **TanoshiiiDevs** | Site da comunidade de desenvolvedores para compartilhar conteúdos. | HTML, CSS | [🔗 Acessar](https://github.com/gbrielbram18/TanoshiiiDevs) |

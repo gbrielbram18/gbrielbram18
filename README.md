@@ -93,8 +93,8 @@ Busco constantemente novas experiências que me permitam unir conhecimentos de s
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gbrielbram18&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbrielbram18&layout=compact&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gbrielbram18&show_icons=true&theme=radical"width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbrielbram18&layout=compact&theme=radical"width="45%" />
 </p>
 
 ---
